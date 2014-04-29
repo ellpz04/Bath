@@ -1,4 +1,0 @@
-Bath
-====
-
-Programas para msdos 
